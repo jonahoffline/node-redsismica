@@ -14,7 +14,7 @@ Run the following command to install.
 To manually scrape all recent felt earthquakes:
 
 ```coffee-script
-require 'redsismica'
+RedSismica = require 'redsismica'
 
 redSismica = new RedSismica
 redSismica.fetchEvents (data) ->
@@ -24,7 +24,7 @@ redSismica.fetchEvents (data) ->
 To manually scrape all recent felts and bulletin data:
 
 ```coffee-script
-require 'redsismica'
+RedSismica = require 'redsismica'
 
 redSismica = new RedSismica
 redSismica.fetchEvents (data) ->
