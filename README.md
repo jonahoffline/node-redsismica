@@ -14,23 +14,23 @@ Run the following command to install.
 To manually scrape all recent felt earthquakes:
 
 ```coffee-script
-	require 'redsismica'
-	
-	redSismica = new RedSismica
-	redSismica.fetchEvents (data) ->
-	  console.log data
+require 'redsismica'
+
+redSismica = new RedSismica
+redSismica.fetchEvents (data) ->
+  console.log data
 ```	
 
 To manually scrape all recent felts and bulletin data:
 
 ```coffee-script
-	require 'redsismica'
-	
-	redSismica = new RedSismica
-	redSismica.fetchEvents (data) ->
-	  console.log data
-	  r.fetchBulletins (bulletinData) ->
-        console.log bulletinData
+require 'redsismica'
+
+redSismica = new RedSismica
+redSismica.fetchEvents (data) ->
+  console.log data
+  r.fetchBulletins (bulletinData) ->
+    console.log bulletinData
 ```	
 
 To run the simple API server in src/api_server.coffee:
