@@ -14,7 +14,9 @@
   "keywords": [
     "redsismica",
     "earthquakes",
-    "puerto rico"
+    "puerto rico",
+    "seismic",
+    "upr"
   ],
   "devDependencies": {
     "mocha": "*",
