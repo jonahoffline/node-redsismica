@@ -2,6 +2,8 @@
 
 Gets last felt earthquakes in Puerto Rico.
 
+**Demo:** [RedSismica API Server (DigitalOcean VPS)](http://pixelhipster.com:9090)
+
 
 ## Installation
 
