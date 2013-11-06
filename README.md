@@ -1,4 +1,5 @@
-# Node-RedSismica [![Build Status](https://drone.io/github.com/jonahoffline/node-redsismica/status.png)](https://drone.io/github.com/jonahoffline/node-redsismica/latest) [![Build Status](https://travis-ci.org/jonahoffline/node-redsismica.png)](https://travis-ci.org/jonahoffline/node-redsismica) [![Dependency Status](https://gemnasium.com/jonahoffline/node-redsismica.png)](https://gemnasium.com/jonahoffline/node-redsismica)
+# Node-RedSismica 
+[![Build Status](https://drone.io/github.com/jonahoffline/node-redsismica/status.png)](https://drone.io/github.com/jonahoffline/node-redsismica/latest) [![Build Status](https://travis-ci.org/jonahoffline/node-redsismica.png)](https://travis-ci.org/jonahoffline/node-redsismica) [![Dependency Status](https://gemnasium.com/jonahoffline/node-redsismica.png)](https://gemnasium.com/jonahoffline/node-redsismica) [![NPM version](https://badge.fury.io/js/redsismica.png)](http://badge.fury.io/js/redsismica)
 
 Gets last felt earthquakes in Puerto Rico.
 
