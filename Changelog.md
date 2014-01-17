@@ -1,5 +1,13 @@
 # RedSismica Changelog
 
+## 1.0.2
+
+Released January 17, 2014 ([1.0.2](https://github.com/jonahoffline/node-redsismica/tree/v1.0.2)).
+
+* Update dependencies for `cheerio` and `request`
+* Fix typo in the api server example in README
+* Remove node versions `0.4` and `0.6` from `.travis.yml`
+
 ## 1.0.1
 
 Released January 17, 2014 ([1.0.1](https://github.com/jonahoffline/node-redsismica/tree/v1.0.1)).
