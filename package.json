@@ -1,7 +1,7 @@
 {
   "name": "redsismica",
   "description": "Scraper for Researching Seismic data from Puerto Rico Seismic Network (University of Puerto Rico)",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Jonah Ruiz <jonah@pixelhipsters.com>",
   "main": "index.coffee",
   "scripts": {
@@ -29,8 +29,8 @@
   },
   "dependencies": {
     "coffee-script": "~1.6.3",
-    "cheerio": "~0.12.2",
-    "request": "~2.27.0",
+    "cheerio": "~0.13.1",
+    "request": "~2.33.0",
     "node-schedule": "~0.1.11"
   },
   "license": "MIT",
