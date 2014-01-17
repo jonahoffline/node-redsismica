@@ -12,7 +12,7 @@ Gets last felt earthquakes in Puerto Rico.
 Run the following command to install.
 
     $ npm install redsismica
-    
+
 ## Usage
 
 To manually scrape all recent felt earthquakes:
@@ -23,7 +23,7 @@ RedSismica = require 'redsismica'
 redSismica = new RedSismica
 redSismica.fetchEvents (data) ->
   console.log data
-```	
+```
 
 To manually scrape all recent felts and bulletin data:
 
@@ -35,12 +35,12 @@ redSismica.fetchEvents (data) ->
   console.log data
   r.fetchBulletins (bulletinData) ->
     console.log bulletinData
-```	
+```
 
-To run the simple API server in src/api_server.coffee:
+To run the simple API server (runs on port `4000`):
 
 ```console
-coffee src/server_api.coffee
+coffee src/api_server.coffee
 ```
 
 ## Author
