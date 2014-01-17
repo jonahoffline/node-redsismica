@@ -1,7 +1,7 @@
 {
   "name": "redsismica",
   "description": "Scraper for Researching Seismic data from Puerto Rico Seismic Network (University of Puerto Rico)",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Jonah Ruiz <jonah@pixelhipsters.com>",
   "main": "index.coffee",
   "scripts": {
@@ -22,9 +22,9 @@
     "mocha": "*",
     "chai": "*",
     "sinon": "*",
-    "grunt-mocha-test": "~0.7.0",
+    "grunt-mocha-test": "~0.8.2",
     "grunt": "~0.4.1",
-    "grunt-contrib-coffee": "~0.7.0",
+    "grunt-contrib-coffee": "~0.8.0",
     "grunt-contrib-watch": "~0.5.3"
   },
   "dependencies": {
