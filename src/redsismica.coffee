@@ -1,7 +1,7 @@
 ###
- redsismica - A node scraper module for researching Seismic data from Puerto Rico Seismic Network (University of Puerto Rico
+ RedSismica - Research Seismic data from Puerto Rico Seismic Network (UPR)
  https://www.github.com/jonahoffline/node-redsismica
- Copyright (c) 2013 Jonah Ruiz
+ Copyright (c) 2013-2014 Jonah Ruiz
  MIT Licence
 ###
 
