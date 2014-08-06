@@ -1,5 +1,11 @@
 # RedSismica Changelog
 
+## 1.0.3
+
+Released August 6, 2014 ([1.0.3](https://github.com/jonahoffline/node-redsismica/tree/v1.0.3)).
+
+* Update dependencies for `cheerio`, `request` and `grunt-*`
+
 ## 1.0.2
 
 Released January 17, 2014 ([1.0.2](https://github.com/jonahoffline/node-redsismica/tree/v1.0.2)).
