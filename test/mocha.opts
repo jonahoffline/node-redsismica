@@ -1,5 +1,5 @@
---require coffee-script
---compilers coffee:coffee-script
+--require coffee-script/register
+--compilers coffee:coffee-script/register
 --colors
 --reporter spec
 --ui bdd
