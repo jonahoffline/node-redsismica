@@ -1,7 +1,7 @@
 {
   "name": "redsismica",
   "description": "Scraper for Researching Seismic data from Puerto Rico Seismic Network (University of Puerto Rico)",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "Jonah Ruiz <jonah@pixelhipsters.com>",
   "main": "index.coffee",
   "scripts": {
@@ -35,6 +35,6 @@
   },
   "license": "MIT",
   "engines": {
-    "node": ">=0.8.16"
+    "node": ">=0.10.30"
   }
 }
