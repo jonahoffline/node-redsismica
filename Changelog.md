@@ -1,5 +1,13 @@
 # RedSismica Changelog
 
+## 1.0.4
+
+Released August 6, 2014 ([1.0.4](https://github.com/jonahoffline/node-redsismica/tree/v1.0.4)).
+
+* Update mocha options to prevent CI build from failing (coffee-script related)
+* Remove node versions 0.8 and 0.9 from travis-ci
+* Update node engine to `>= v0.10.30`
+
 ## 1.0.3
 
 Released August 6, 2014 ([1.0.3](https://github.com/jonahoffline/node-redsismica/tree/v1.0.3)).
